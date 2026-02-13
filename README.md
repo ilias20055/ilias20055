@@ -57,15 +57,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilias20055&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilias20055&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilias20055&theme=chartreuse-dark&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=ilias20055&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias20055&layout=compact&theme=chartreuse-dark&hide_border=true" alt="languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilias20055&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
