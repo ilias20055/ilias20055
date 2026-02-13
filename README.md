@@ -15,7 +15,7 @@
 - ⚡ I love building scalable, clean, and efficient applications  
 - 🌱 Currently improving my skills in Advanced Architecture & Performance  
 - 🖥️ Specialized in React, Laravel & Electron  
-- 📫 Reach me: your-email@example.com  
+- 📫 Reach me: ilyasousalh41@gmail.com  
 
 ---
 
@@ -56,13 +56,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilias20055&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias20055&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilias20055&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilias20055&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
