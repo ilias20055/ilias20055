@@ -56,27 +56,27 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilias20055&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilias20055&theme=chartreuse-dark&hide_border=true" />
-</p>
+  <div style="background: #1f1f1f; padding: 15px; border-radius: 15px; transition: transform 0.3s; text-align: center;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilias20055&show_icons=true&theme=chartreuse-dark&hide_border=true" style="border-radius: 10px;" />
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilias20055&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+  <div style="background: #1f1f1f; padding: 15px; border-radius: 15px; transition: transform 0.3s; text-align: center;">
+    <img src="https://streak-stats.demolab.com?user=ilias20055&theme=chartreuse-dark&hide_border=true" style="border-radius: 10px;" />
+  </div>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilias20055&theme=tokyonight)
+  <div style="background: #1f1f1f; padding: 15px; border-radius: 15px; transition: transform 0.3s; text-align: center;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilias20055&layout=compact&theme=chartreuse-dark&hide_border=true" style="border-radius: 10px;" />
+  </div>
 
 </div>
+
+<style>
+div div:hover {
+  transform: scale(1.05);
+}
+</style>
 
 ---
 
