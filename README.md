@@ -87,7 +87,14 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
-
+<br/>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilias20055&style=for-the-badge&color=blueviolet" />
+</p>
+<br/>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <br/>
 
 <div align="center">
