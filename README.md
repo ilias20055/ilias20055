@@ -1,11 +1,13 @@
 <div align="center">
-
-# 👋 Hi there, I'm Ilyas!
-
-### 💻 Full-Stack Developer  
-🚀 "Building modern web applications & powerful desktop apps"
-
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I%27m+ilyas+Ousalh;Web+Developer;" />
+  </a>
+</h1>
 
 ---
 
