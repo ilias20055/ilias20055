@@ -54,27 +54,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <div style="background: #1f1f1f; padding: 10px; border-radius: 10px; text-align: center;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilias20055&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  </div>
-
-  <div style="background: #1f1f1f; padding: 10px; border-radius: 10px; text-align: center;">
-    <img src="https://streak-stats.demolab.com?user=ilias20055&theme=chartreuse-dark&hide_border=true" />
-  </div>
-
-  <div style="background: #1f1f1f; padding: 10px; border-radius: 10px; text-align: center;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilias20055&layout=compact&theme=chartreuse-dark&hide_border=true" />
-  </div>
-
-</div>
-
----
 
 ### 🤝 Let's Connect
 
